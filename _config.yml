@@ -25,7 +25,8 @@ paginate: 5
 # MatJek specific configurations
 github_profile: "https://github.com/mahon94"
 user: "Maryam Honari"
-user_email: "mhonari [at] uvic dot ca"
+user_email: "mhonari@uvic.ca"
+user_email_cypher: "mhonari [at] uvic dot ca"
 contact_url: "mailto:mhonari@uvic.ca"
 # google_tracking_id: "UA-96359860-1"
 # google_site_verification: "UA-96359860-1"
